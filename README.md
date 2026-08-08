@@ -40,7 +40,7 @@
 
 ---
 
-# `01` — ABOUT
+# ABOUT
 
 <div align="center">
 
@@ -70,7 +70,7 @@ My current engineering interests combine **full-stack product development with A
 
 ---
 
-# `02` — TECH STACK
+# TECH STACK
 
 ## Languages
 
@@ -132,7 +132,7 @@ My current engineering interests combine **full-stack product development with A
 
 ---
 
-# `03` — AI / ML EXPERTISE
+# AI / ML EXPERTISE
 
 | Domain | Proficiency | Details |
 |---|---:|---|
@@ -146,7 +146,7 @@ My current engineering interests combine **full-stack product development with A
 
 ---
 
-# `04` — FEATURED PROJECTS
+# FEATURED PROJECTS
 
 <details>
 <summary><strong>AI-Powered Industrial Accident Detection System</strong></summary>
@@ -251,7 +251,7 @@ Designed and developed the official college website with responsive UI and dynam
 
 ---
 
-# `05` — EXPERIENCE
+# EXPERIENCE
 
 ## Full Stack Developer — Faculty Feedback System
 
@@ -299,7 +299,7 @@ Worked on responsive web applications and backend functionality while gaining pr
 
 ---
 
-# `06` — ACHIEVEMENTS
+# ACHIEVEMENTS
 
 <div align="center">
 
@@ -316,31 +316,7 @@ Worked on responsive web applications and backend functionality while gaining pr
 
 ---
 
-# `07` — CERTIFICATIONS & LEARNING
-
-<div align="center">
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology%20Learning-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Academic%20Learning-5B21B6?style=for-the-badge&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Technical%20Learning-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
-
-# `08` — CODING PROFILES
+# CODING PROFILES
 
 <div align="center">
 
@@ -364,7 +340,7 @@ Worked on responsive web applications and backend functionality while gaining pr
 
 ---
 
-# `09` — GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -386,7 +362,7 @@ Worked on responsive web applications and backend functionality while gaining pr
 
 ---
 
-# `10` — CURRENT FOCUS
+# CURRENT FOCUS
 
 ```yaml
 profile:

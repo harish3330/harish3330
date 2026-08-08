@@ -386,39 +386,7 @@ Worked on responsive web applications and backend functionality while gaining pr
 
 ---
 
-# `10` — GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harish3330&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-# `11` — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/harish3330">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harish3330&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-</a>
-
-</div>
-
----
-
-# `12` — CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harish3330/harish3330/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# `13` — CURRENT FOCUS
+# `10` — CURRENT FOCUS
 
 ```yaml
 profile:
